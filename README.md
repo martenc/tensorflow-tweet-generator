@@ -70,8 +70,12 @@ Python
     python train.py
 4.  generate sample from the trained models, which only takes a few seconds:\
     python sample.py
-5.  thats it! ....and you can modify parameters like number of words generated in the "train.py" file
+5.  thats it! ....and you can modify parameters like number of words generated in the "sample.py" file
 
+
+**Notes
+- You don't need the "/data/halloweenesque/vocab.pkl" file in order to create a trained model.
+- Your generated models are chunk af, e.g. >= 1GB so they're ignored from this repo
 
 **Tools:**
 
