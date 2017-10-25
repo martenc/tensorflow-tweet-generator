@@ -58,6 +58,8 @@ Python
 3.  ...if you run into issues its likely due to numpy, if so install pip and ignore numpy version:\
     sudo pip install --ignore-installed numpy\
     ...then rerun step 3
+4.  If you run into installation problems pls check out: https://www.tensorflow.org/install/install_mac#common_installation_problems
+
 
 
 **Train the model and generate:**
