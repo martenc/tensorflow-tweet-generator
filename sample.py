@@ -14,7 +14,7 @@ def main():
     parser = argparse.ArgumentParser()
     parser.add_argument('--save_dir', type=str, default='save',
                        help='model directory to load stored checkpointed models from')
-    parser.add_argument('-n', type=int, default=300,
+    parser.add_argument('-n', type=int, default=1000,
                        help='number of words to sample')
     parser.add_argument('--prime', type=str, default='The',
                        help='prime text')

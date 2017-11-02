@@ -58,6 +58,8 @@ Python
 3.  ...if you run into issues its likely due to numpy, if so install pip and ignore numpy version:\
     sudo pip install --ignore-installed numpy\
     ...then rerun step 3
+4.  If you run into installation problems pls check out: https://www.tensorflow.org/install/install_mac#common_installation_problems
+
 
 
 **Train the model and generate:**
@@ -84,3 +86,17 @@ Python
 <http://www.countofwords.com/>
 
 <http://shakespeare.mit.edu/coriolanus/coriolanus.1.1.html>
+
+<https://www.oldbookillustrations.com/>
+
+
+https://unholyterrors.wordpress.com/2013/10/26/10-creepy-short-stories-available-to-read-in-the-public-domain/
+
+http://www.steve-calvert.co.uk/public-domain-texts/List-of-Stories.html
+
+https://litreactor.com/columns/5-public-domain-works-of-classic-horror-you-can-read-for-free
+
+http://absolutehorror.wikia.com/wiki/Category:Public_Domain_Short_Stories
+
+http://www.feedbooks.com/books?category=FBFIC015000&lang=en&page=4
+
