@@ -88,3 +88,15 @@ Python
 <http://shakespeare.mit.edu/coriolanus/coriolanus.1.1.html>
 
 <https://www.oldbookillustrations.com/>
+
+
+https://unholyterrors.wordpress.com/2013/10/26/10-creepy-short-stories-available-to-read-in-the-public-domain/
+
+http://www.steve-calvert.co.uk/public-domain-texts/List-of-Stories.html
+
+https://litreactor.com/columns/5-public-domain-works-of-classic-horror-you-can-read-for-free
+
+http://absolutehorror.wikia.com/wiki/Category:Public_Domain_Short_Stories
+
+http://www.feedbooks.com/books?category=FBFIC015000&lang=en&page=4
+
